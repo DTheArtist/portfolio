@@ -1,0 +1,52 @@
+<?xml version="1.0"?> 
+<!-- keep a space where there is no picCredit -->
+<talent>
+	<chef>
+		<name>Rebecca Charles</name>
+		<picCredit></picCredit>
+		<imageFile>charles_r.jpg</imageFile>
+		<restaurant>Pearl Oyster Bar</restaurant>
+		<restaurantLink>http://www.pearloysterbar.com/</restaurantLink>
+		<bioFile>charles_r.html</bioFile>
+	</chef>
+	<chef>
+		<name>Ariane Daguin</name>
+		<picCredit></picCredit>
+		<imageFile>daguin_a.jpg</imageFile>
+		<restaurant>D&#8217;Artagnan</restaurant>
+		<restaurantLink>http://www.dartagnan.com/</restaurantLink>
+		<bioFile>daguin_a.html</bioFile>
+	</chef>
+	<chef>
+		<name>Mario Danieli</name>
+		<picCredit></picCredit>
+		<imageFile>danieli_m.jpg</imageFile>
+		<restaurant>Casa Lever</restaurant>
+		<restaurantLink>http://www.casalever.com/</restaurantLink>
+		<bioFile>danieli_m.html</bioFile>
+	</chef>
+	<chef>
+		<name>Sam Hazen</name>
+		<picCredit>Photo: Pioppo Studios</picCredit>
+		<imageFile>hazen_s.jpg</imageFile>
+		<restaurant>Veritas</restaurant>
+		<restaurantLink>http://www.veritas-nyc.com</restaurantLink>
+		<bioFile>hazen_s.html</bioFile>
+	</chef>
+	<chef>
+		<name>Todd Mitgang</name>
+		<picCredit></picCredit>
+		<imageFile>mitgang_t.jpg</imageFile>
+		<restaurant>Crave Fishbar</restaurant>
+		<restaurantLink>http://cravefishbar.com/</restaurantLink>
+		<bioFile>mitgang_t.html</bioFile>
+	</chef>
+	<chef>
+		<name>Nancy Olson</name>
+		<picCredit></picCredit>
+		<imageFile>olson_n.jpg</imageFile>
+		<restaurant>Gramercy Tavern</restaurant>
+		<restaurantLink>http://www.gramercytavern.com/</restaurantLink>
+		<bioFile>olson_n.html</bioFile>
+	</chef>
+</talent>
