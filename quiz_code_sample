@@ -1,1 +1,413 @@
 
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" page-id="{9E9EE160-C1B5-407B-9821-1BE71E4E8FE2}">
+<!--<![endif]-->
+	
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <link href="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Feature/Experience-Accelerator/Bootstrap-4,-d-,5/Bootstrap-4,-d-,5/Styles/bootstrap-min.css" rel="stylesheet" />
+		<link href="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Base-Themes/CCPA-Bottom-Base-Styles/Styles/CCPA_Bottom_CSS.css" rel="stylesheet" />
+		<link href="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Themes/Amgen/LetsTalkBoneMets-com/LetsTalkBoneMets-com/Styles/all-quantum-custom.css" rel="stylesheet" />
+		<link href="/-/media/Feature/Experience-Accelerator/Bootstrap-4,-d-,5/Bootstrap-4,-d-,5/Styles/bootstrap-min.css" rel="stylesheet" />
+		<link href="/-/media/Base-Themes/CCPA-Bottom-Base-Styles/Styles/CCPA_Bottom_CSS.css" rel="stylesheet" />
+		<link href="/-/media/Themes/Amgen/LetsTalkBoneMets-com/LetsTalkBoneMets-com/Styles/all-quantum-custom.css" rel="stylesheet" />
+		
+		<link href="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Themes/Amgen/LetsTalkBoneMets-com/LetsTalkBoneMets-com/Styles/bonemets.css" rel="stylesheet" />
+		<link href="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Themes/Amgen/LetsTalkBoneMets-com/LetsTalkBoneMets-com/Styles/bonemets-custom.css" rel="stylesheet" />  
+		
+		<!-- UPDATE FOR LOCAL REVIEW
+		<link href="bonemets.css" rel="stylesheet" />
+		<link href="bonemets-custom.css" rel="stylesheet" />    
+		-->
+
+    
+		
+		
+		<meta name="VIcurrentDateTime" content="638012596384257286" />
+		<meta name="VirtualFolder" content="/" />
+		<!--Header Media Start-->
+		<script src="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Foundation/Amgen/JS/jquery-331min.js"></script>
+		<script src="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Foundation/Amgen/JS/svg4everybodymin-1.js"></script>
+		<script src="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Foundation/Amgen/JS/polyfillmin.js"></script>
+		<script src="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Foundation/Amgen/JS/jquery-ui.js"></script>
+		<script src="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Foundation/Amgen/JS/bootstrap.js"></script>
+		<!--Header Media End-->
+		<title>bone-mets-quiz</title>
+        <link href="https://www.letstalkbonemets.com/Bone-Mets-Resources/-/media/Themes/Amgen/LetsTalkBoneMets-com/LetsTalkBoneMets-com/Images/Common/icon/Favicon.ico" rel="shortcut icon" />
+		<meta content="Take the bone mets quiz to reinforce your understanding of bone metastases."  property="og:description" />
+		<meta content="website"  property="og:type" />
+		<meta content="http://www.letstalkbonemets.com/bone-mets-resources/bone-mets-quiz/"  property="og:site_name" />
+		<meta content="Bone Mets Quiz | Test Your Bone Metastases Knowledge"  property="og:title" />
+		<meta content="https://www.letstalkbonemets.com/bone-mets-resources/bone-mets-quiz"  property="og:url" />
+		<meta content="@Amgen" name="twitter:site"  />
+		<meta content="Take the bone mets quiz to reinforce your understanding of bone metastases." name="twitter:description"  />
+		<meta content="Bone Mets Quiz | Test Your Bone Metastases Knowledge" name="twitter:title"  />
+		<meta content="summary" name="twitter:card"  />
+    	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+    	<meta content="https://www.letstalkbonemets.com/bone-mets-resources/bone-mets-quiz" name="twitter:url" />
+    	<link rel="canonical" href="https://www.letstalkbonemets.com/bone-mets-resources/bone-mets-quiz">
+        <link rel="alternate" hreflang="en" href="http://www.letstalkbonemets.com/Bone-Mets-Resources/bone-mets-quiz" />
+	</head>
+	<body>
+		<div class="component container bg-white container-custom">
+    		<div class="component-content">
+				<div class="component carousel col-12 initialized" data-properties="{&quot;timeout&quot;:2147483647,&quot;isPauseEnabled&quot;:false,&quot;transition&quot;:&quot;SlideHorizontallyTransition&quot;}">
+					<div class="component-content">
+					</div>
+				</div>
+
+
+				<div class="component rich-text">
+					<div class="component-content">
+						<div class="text-box carousel initialized">
+							<div class="row quiz"> 
+								<div class="spacer50"></div>
+
+        
+            					<div id="Question1" class="quizcontent" style="display: none;">
+                					<div class="large-8 offset-xl-2 medium-10 offset-sm-1 grey-bg round-corner columns padding-left-right-2X">
+                   <!-- <h3 class=" text-center padding-bottom-15">
+                        Question 1 of 5
+                    </h3> -->
+                    <span class=" text-center padding-bottom-15 keyfacts_wt">Question 1 of 5</span>
+                    <div class="medium-10 offset-sm-1 columns no-padding">
+                        <div class="small-12 white-bg round-corner padding-left-right-2X inline-block padding-bottom-15">
+                            <br><br>
+                                <h3>CERTAIN KINDS OF CANCER ARE MORE LIKELY TO SPREAD TO THE BONE.</h3> 
+                            
+                            <div class="answers answered">
+                                 
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{36435666-FFB2-422D-AB5E-756691841AE4}" id="Option1" value="TRUE" data-title="Question1" disabled="disabled">
+                                           TRUE 
+                                        </button>
+                                   
+                                        <button type="button" class="btn-default button-answer half-column-width font24px clicked" data-quiz="{36435666-FFB2-422D-AB5E-756691841AE4}" id="Option2" value="FALSE" data-title="Question1" disabled="disabled">
+                                           FALSE 
+                                        </button>
+                                    
+                            </div>
+                            <div class="answer" style="display:none">
+                                TRUE
+                            </div>
+                            <div class="answer-explain clear-both"><h2 class="red">Incorrect</h2><p class="font24px">The correct answer is <span class="blue">TRUE.</span></p>
+                                  <p class="font24px">Bone mets are especially common in breast, prostate, lung, thyroid, and kidney cancers.<sup>1</sup></p> 
+                            
+                            </div>
+                        </div>
+
+
+                        <div class="clear-both">
+                            <div class="spacer hide-for-small" style="height:10px;"></div>
+                            <div class="spacer " style="height:20px;"></div>
+                
+                               
+                                <button type="button" class="right small-button small-button-180 button no-margin-right nxt" data-currentquiz="1">
+                                    NEXT&nbsp;<span class="right-arrow">►</span>
+                                </button>
+                               
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+         
+        
+            <div id="Question2" class="quizcontent" style="">
+                <div class="large-8 offset-xl-2 medium-10 offset-sm-1 grey-bg round-corner columns padding-left-right-2X">
+                   <!-- <h3 class=" text-center padding-bottom-15">
+                        Question 2 of 5
+                    </h3> -->
+                    <span class=" text-center padding-bottom-15 keyfacts_wt">Question 2 of 5</span>
+                    <div class="medium-10 offset-sm-1 columns no-padding">
+                        <div class="small-12 white-bg round-corner padding-left-right-2X inline-block padding-bottom-15">
+                            <br><br>
+                                <h3>WHAT IS IT CALLED WHEN BREAST, PROSTATE, LUNG OR OTHER SOLID TUMOR CANCER SPREADS TO THE BONE?</h3>
+                            
+                            <div class="answers">
+                                 
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{EA652733-E3EB-4CC4-8BDD-FEC217159E6E}" id="Option1" value="BONE CANCER" data-title="Question2">
+                                           BONE CANCER 
+                                        </button>
+                                   
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{EA652733-E3EB-4CC4-8BDD-FEC217159E6E}" id="Option2" value="BONE METASTASES" data-title="Question2">
+                                           BONE METASTASES 
+                                        </button>
+                                    
+                            </div>
+                            <div class="answer" style="display:none">
+                                BONE METASTASES
+                            </div>
+                            <div class="answer-explain clear-both hide">
+                                  <p>When cancer spreads from the original solid tumor to the bone, those tumors are called bone metastases, or "bone mets." Bone cancers start in the bone, just like breast cancer starts in the breast and prostate cancer starts in the prostate. In fact, bone cancers are very different from bone mets and are much less common than bone mets.<sup>1</sup></p>
+                            
+                            </div>
+                        </div>
+
+
+                        <div class="clear-both">
+                            <div class="spacer hide-for-small" style="height:10px;"></div>
+                            <div class="spacer " style="height:20px;"></div>
+                
+                               
+                                <button type="button" class="right grey-button small-button small-button-180 button no-margin-right nxt" disabled="disabled" data-currentquiz="2">
+                                    NEXT&nbsp;<span class="right-arrow">►</span>
+                                </button>
+                               
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+         
+        
+            <div id="Question3" class="quizcontent" style="display: none;">
+                <div class="large-8 offset-xl-2 medium-10 offset-sm-1 grey-bg round-corner columns padding-left-right-2X">
+                   <!-- <h3 class=" text-center padding-bottom-15">
+                        Question 3 of 5
+                    </h3> -->
+                    <span class=" text-center padding-bottom-15 keyfacts_wt">Question 3 of 5</span>
+                    <div class="medium-10 offset-sm-1 columns no-padding">
+                        <div class="small-12 white-bg round-corner padding-left-right-2X inline-block padding-bottom-15">
+                            <br><br>
+                                <h3>IF YOU HAVE BONE METASTASES FROM BREAST, PROSTATE, LUNG OR OTHER SOLID TUMOR CANCER…</h3>
+<h3 class="no-padding-top">YOU ARE AT RISK OF EXPERIENCING WHICH OF THE FOLLOWING SERIOUS BONE PROBLEMS?</h3>
+                            
+                            <div class="answers">
+                                                                
+                                   
+
+                                        <button type="button" class="btn-default button-answer font24px" data-quiz="{DD0AD711-6D5F-4B54-BFE6-8D651C1114A6}" id="Option1" value="BROKEN BONES (FRACTURES)" data-title="Question3">
+                                            BROKEN BONES (FRACTURES)                                          
+                                        </button>
+                                                                   
+                                   
+
+                                        <button type="button" class="btn-default button-answer font24px" data-quiz="{DD0AD711-6D5F-4B54-BFE6-8D651C1114A6}" id="Option2" value="A NEED FOR SURGERY TO PREVENT OR REPAIR BROKEN BONES" data-title="Question3">
+                                            A NEED FOR SURGERY TO PREVENT OR REPAIR BROKEN BONES                                          
+                                        </button>
+                                                                   
+                                   
+
+                                        <button type="button" class="btn-default button-answer font24px" data-quiz="{DD0AD711-6D5F-4B54-BFE6-8D651C1114A6}" id="Option3" value="A NEED FOR RADIATION TREATMENTS TO BONE" data-title="Question3">
+                                            A NEED FOR RADIATION TREATMENTS TO BONE                                          
+                                        </button>
+                                                                   
+                                   
+
+                                        <button type="button" class="btn-default button-answer font24px" data-quiz="{DD0AD711-6D5F-4B54-BFE6-8D651C1114A6}" id="Option4" value="PRESSURE ON THE SPINAL CORD (SPINAL CORD COMPRESSION)" data-title="Question3">
+                                            PRESSURE ON THE SPINAL CORD (SPINAL CORD COMPRESSION)                                          
+                                        </button>
+                                                                   
+                                   
+
+                                        <button type="button" class="btn-default button-answer font24px" data-quiz="{DD0AD711-6D5F-4B54-BFE6-8D651C1114A6}" id="Option5" value="ALL OF THE ABOVE" data-title="Question3">
+                                            ALL OF THE ABOVE                                          
+                                        </button>
+                                     
+                            </div>
+                            <div class="answer" style="display:none">
+                                 ALL OF THE ABOVE
+                            </div>
+                            <div class="answer-explain clear-both hide">
+                                  <p class="font24px">Patients with bone metastases from solid tumors are at risk for serious bone problems. Serious bone problems are defined as broken bones (fractures), a need for surgery to prevent or repair broken bones, a need for radiation treatments to the bone, or pressure on the spinal cord (spinal cord compression).<sup>1</sup> If you or a loved one develops bone mets, it's important to talk to the doctor about a plan to prevent serious bone problems. </p>
+                            
+                            </div>
+                        </div>
+
+
+                        <div class="clear-both">
+                            <div class="spacer hide-for-small" style="height:10px;"></div>
+                            <div class="spacer " style="height:20px;"></div>
+                
+                               
+                                <button type="button" class="right grey-button small-button small-button-180 button no-margin-right nxt" disabled="disabled" data-currentquiz="3">
+                                    NEXT&nbsp;<span class="right-arrow">►</span>
+                                </button>
+                               
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+         
+        
+            <div id="Question4" class="quizcontent" style="display: none;">
+                <div class="large-8 offset-xl-2 medium-10 offset-sm-1 grey-bg round-corner columns padding-left-right-2X">
+                   <!-- <h3 class=" text-center padding-bottom-15">
+                        Question 4 of 5
+                    </h3> -->
+                    <span class=" text-center padding-bottom-15 keyfacts_wt">Question 4 of 5</span>
+                    <div class="medium-10 offset-sm-1 columns no-padding">
+                        <div class="small-12 white-bg round-corner padding-left-right-2X inline-block padding-bottom-15">
+                            <br><br>
+                                <h3>IF YOU HAVE BONE METASTASES FROM A SOLID TUMOR CANCER…</h3>
+						<h3 class="no-padding-top">YOU SHOULD WAIT UNTIL YOU HAVE BONE PAIN BEFORE TALKING TO YOUR DOCTOR ABOUT BONE PROTECTION</h3>
+                            
+                            <div class="answers">
+                                 
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{B31A75EF-FF57-44D8-A224-743A6503C2CF}" id="Option1" value="TRUE" data-title="Question4">
+                                           TRUE 
+                                        </button>
+                                   
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{B31A75EF-FF57-44D8-A224-743A6503C2CF}" id="Option2" value="FALSE" data-title="Question4">
+                                           FALSE 
+                                        </button>
+                                    
+                            </div>
+                            <div class="answer" style="display:none">
+                                FALSE
+                            </div>
+                            <div class="answer-explain clear-both hide">
+                                  <p>If you have bone mets, don't wait for bone pain before asking your doctor about steps for preventing serious bone problems. In some cases, a broken bone is the first sign of bone mets.<sup>1</sup> So remember, bone pain is not always a reliable predictor of the risk for serious bone problems.<sup>2</sup></p>
+<p>Serious bone problems are defined as broken bones (fractures), a need for surgery to prevent or repair broken bones, a need for radiation treatments to the bone, or pressure on the spinal cord (spinal cord compression).<sup>1</sup> If you or a loved one develops bone mets, it's important to talk to the doctor about a plan to prevent serious bone problems.</p>
+                            
+                            </div>
+                        </div>
+
+
+                        <div class="clear-both">
+                            <div class="spacer hide-for-small" style="height:10px;"></div>
+                            <div class="spacer " style="height:20px;"></div>
+                
+                               
+                                <button type="button" class="right grey-button small-button small-button-180 button no-margin-right nxt" disabled="disabled" data-currentquiz="4">
+                                    NEXT&nbsp;<span class="right-arrow">►</span>
+                                </button>
+                               
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+         
+        
+            <div id="Question5" class="quizcontent" style="display: none;">
+                <div class="large-8 offset-xl-2 medium-10 offset-sm-1 grey-bg round-corner columns padding-left-right-2X">
+                   <!-- <h3 class=" text-center padding-bottom-15">
+                        Question 5 of 5
+                    </h3> -->
+                    <span class=" text-center padding-bottom-15 keyfacts_wt">Question 5 of 5</span>
+                    <div class="medium-10 offset-sm-1 columns no-padding">
+                        <div class="small-12 white-bg round-corner padding-left-right-2X inline-block padding-bottom-15">
+                            <br><br>
+                                <h3>THERE ARE MEDICINES AVAILABLE THAT MAY REDUCE THE RISK OF SERIOUS BONE PROBLEMS</h3>
+                            
+                            <div class="answers">
+                                 
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{C32639FF-7783-45A2-A3C1-6A0C24DEFA3F}" id="Option1" value="TRUE" data-title="Question5">
+                                           TRUE 
+                                        </button>
+                                   
+                                        <button type="button" class="btn-default button-answer half-column-width font24px" data-quiz="{C32639FF-7783-45A2-A3C1-6A0C24DEFA3F}" id="Option2" value="FALSE" data-title="Question5">
+                                           FALSE 
+                                        </button>
+                                    
+                            </div>
+                            <div class="answer" style="display:none">
+                                TRUE
+                            </div>
+                            <div class="answer-explain clear-both hide">
+                                <p>There are medicine options available to help prevent the serious bone problems caused by bone mets from solid tumor cancers. These medicines work to slow down the bone damage caused by cancer and lower the risk of serious bone problems.<sup>1</sup> Serious bone problems are defined as broken bones (fractures), a need for surgery to prevent or repair broken bones, a need for radiation treatments to the bone, or pressure on the spinal cord (spinal cord compression).<sup>1</sup></p>
+								<p>Ask your doctor about your treatment options and about the risks and benefits of treatment. Risks of treatment may include low calcium levels in your blood (hypocalcemia) that could be life-threatening, severe jaw bone problems (osteonecrosis), unusual thigh bone fractures (atypical femoral fractures), and possible harm to your unborn baby.<sup>1</sup></p>
+                            
+                            </div>
+                        </div>
+
+
+                        <div class="clear-both">
+                            <div class="spacer hide-for-small" style="height:10px;"></div>
+                            <div class="spacer " style="height:20px;"></div>
+                
+                               
+                               <a data-reveal-id="extrenalModal" class=" right small-button-widget small-button-180 button no-margin-right model-pop-up-open" data-attr="external-popup" href="##" "="">LEARN ABOUT A TREATMENT OPTION&nbsp;<span class="right-arrow">►</span></a> 
+                          
+
+
+								</div>
+							</div>
+						</div>
+					</div>
+		</div>
+		<div class="row">
+			<div class="large-12 columns">
+				<br>
+			</div>
+		</div>
+		</div>        
+</div>
+</div>
+</div>
+</div>
+	</body>
+	<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$(".quizcontent").hide();
+			$("#Question1").show();
+
+			$(".btn-default").bind("click", function () {
+				var btn = $(this);
+				btn.addClass("clicked");
+				btn.parent().addClass("answered");
+				var quizId = btn.data('quiz');
+				var quizTitle = btn.data('title');
+				var answer = this.value;
+				$('#' + quizTitle).find(".btn-default").attr("disabled", "disabled");
+				$('#' + quizTitle).find('div.last_btn').removeClass("hide");
+				var anstag = $('#' + quizTitle).find('div.answer')
+				var divtag = $('#' + quizTitle).find('div.answer-explain');
+				var htag = $('<h2/>');
+				var ptag = divtag.html();
+				divtag.empty();
+				if (answer.toLowerCase() == anstag.html().trim().toLowerCase()) {
+					htag.addClass("blue").html("Correct");
+					btn.addClass("correct")
+
+				}
+				else {
+					var pcorrect = '<p class="font24px">The correct answer is <span class="blue">' + anstag.html().toUpperCase().trim()  + '.</span></p>';
+					ptag = pcorrect + ptag;
+					htag.addClass("red").html("Incorrect");
+				}
+				divtag.append(htag).append(ptag).removeClass("hide");
+				$('#' + quizTitle).find('button.nxt').removeAttr("disabled").removeClass("grey-button");
+				$('#' + quizTitle).find('button.prev').removeAttr("disabled").removeClass("grey-button");
+
+			});
+
+			$(".nxt").click(function (event) {
+				$(".quizcontent").hide();                 
+				var nextQuiz = parseInt($(this).data('currentquiz')) + 1;    
+				var nextquizdiv = $("#Question" + nextQuiz);
+				nextquizdiv.show();
+				$('html, body').animate({ scrollTop: nextquizdiv.offset().top - (nextquizdiv.height()+50) }, 800);
+
+			});
+			$(".prev").click(function (event) {
+
+				$(".quizcontent").hide();
+				var prevQuiz = parseInt($(this).data('currentquiz')) - 1;
+				var prevquizdiv = $("#Question" + prevQuiz);
+
+				prevquizdiv.animate({
+					scrollTop: prevquizdiv.offset().top + prevquizdiv.height(),
+				}, 2000);
+				prevquizdiv.show();
+
+			});
+
+		});
+
+
+</script>
+</html>
